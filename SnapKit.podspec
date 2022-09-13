@@ -14,7 +14,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Sources/*.swift'
 
-  s.ios.frameworks  = 'libswiftCoreGraphics.tbd'
-
   s.swift_versions = ['5.0']
 end
